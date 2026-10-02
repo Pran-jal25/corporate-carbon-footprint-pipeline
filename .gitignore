@@ -1,0 +1,16 @@
+# Large data files
+carbon_emission_dataset_with_Industry.csv
+cleaned_carbon_emissions.csv
+
+# Personal files
+phase6_career_deliverables.md
+phase4_powerbi_dax.md
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+venv/
